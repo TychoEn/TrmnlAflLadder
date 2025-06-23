@@ -3,20 +3,20 @@
         {
             "position": "1",
             "team": "Collingwood Magpies",
-            "points": "44",
+            "points": "48",
             "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/CM.png?raw=true"
         },
         {
             "position": "2",
-            "team": "Geelong Cats",
-            "points": "40",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GC.png?raw=true"
+            "team": "Brisbane Lions",
+            "points": "42",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/BL.png?raw=true"
         },
         {
             "position": "3",
-            "team": "Brisbane Lions",
-            "points": "38",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/BL.png?raw=true"
+            "team": "Geelong Cats",
+            "points": "40",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GC.png?raw=true"
         },
         {
             "position": "4",
@@ -28,85 +28,85 @@
             "position": "5",
             "team": "Hawthorne Hawks",
             "points": "36",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/HH.png"
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/HH.png?raw=true"
         },
         {
             "position": "6",
-            "team": "Gold Coast Suns",
-            "points": "40",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GCS.png"
+            "team": "Freemantle Dockers",
+            "points": "36",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/FD.png?raw=true"
         },
         {
             "position": "7",
             "team": "GWS Giants",
-            "points": "32",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GWS.png"
+            "points": "36",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GWS.png?raw=true"
         },
         {
             "position": "8",
-            "team": "Freemantle Dockers",
+            "team": "Western Bulldogs",
             "points": "32",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/FD.png"
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/WB.png?raw=true"
         },
         {
             "position": "9",
-            "team": "Western Bulldogs",
-            "points": "28",
-            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/WB.png"
+            "team": "Gold Coast Suns",
+            "points": "32",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GCS.png?raw=true"
         },
         {
             "position": "10",
             "team": "Carlton Blues",
             "points": "24",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/ecc988786dd0b0497776200647c3a55a84d7b2a6/Images/TeamColour/CB.png?raw=true"
         },
         {
             "position": "11",
-            "team": "Port Adelaide",
+            "team": "Sydney Swans",
             "points": "24",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/SS.png?raw=true"
         },
         {
             "position": "12",
-            "team": "Essendon Bombers",
+            "team": "Port Adelaide",
             "points": "24",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/PP2.png?raw=true"
         },
         {
             "position": "13",
-            "team": "Sydney Swans",
-            "points": "20",
-            "logo-url": ""
+            "team": "Essendon Bombers",
+            "points": "24",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/EB.png?raw=true"
         },
         {
             "position": "14",
-            "team": "St Kilda Saints",
+            "team": "Melbourne Demons",
             "points": "20",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/MD.png?raw=true"
         },
         {
             "position": "15",
-            "team": "Melbourne Demons",
+            "team": "St Kilda Saints",
             "points": "20",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/SKS.png?raw=true"
         },
         {
             "position": "16",
             "team": "North Melbourne Kangaroos",
-            "points": "14",
-            "logo-url": ""
+            "points": "18",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/NMK.png?raw=true"
         },
         {
             "position": "17",
             "team": "Richmond Tigers",
             "points": "12",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/RT.png?raw=true"
         },
         {
             "position": "18",
             "team": "West Coast Eagles",
             "points": "4",
-            "logo-url": ""
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/f4f88861d4b2ad264ba61c8fd570fac90fdba2f0/Images/TeamColour/WCE.png?raw=true"
         }
     ]
 }
