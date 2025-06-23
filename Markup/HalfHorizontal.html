@@ -1,0 +1,57 @@
+﻿<div class="layout-v2 layout--stretch glob">
+    <div class="columns border--h-1">
+        <div class="column">
+            <div class="grid border--h-1 mt--0.5">
+                <div class="label col--span-1">Pos.</div>
+                <div class="col--span-5 content--left">
+                    <span class="label">Team</span>
+                </div>
+                <div class="label col--span-1">Pts.</div>
+            </div>
+            {% for lp in ladder-positions %}
+            {%- if forloop.index > 4 -%}
+            {% continue %}
+            {% else %}
+            <div class="grid team-row">
+                <div class="label col--span-1 ml--3">{{ lp.position }}</div>
+                <div class="col--span-1">
+                    <img class="image" src="{{ lp.logo-url }}" width="30px" height="30px" />
+                </div>
+                <div class="col--span-4 content--left label team-label">
+                    {{ lp.team }}
+                </div>
+                <div class="col--span-1 label">{{ lp.points }}</div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="column">
+            <div class="grid border--h-1">
+                <div class="label col--span-1">Pos.</div>
+                <div class="col--span-5 content--left">
+                    <span class="label">Team</span>
+                </div>
+                <div class="label col--span-1">Pts.</div>
+            </div>
+            {% for lp in ladder-positions %}
+            {%- if forloop.index > 8 or forloop.index < 5 -%}
+            {% continue %}
+            {% else %}
+            <div class="grid team-row">
+                <div class="label col--span-1 ml--3">{{ lp.position }}</div>
+                <div class="col--span-1">
+                    <img class="image" src="{{ lp.logo-url }}" width="30px" height="30px" />
+                </div>
+                <div class="col--span-4 content--left label team-label">{{ lp.team }} </div>
+                <div class="col--span-1 label">{{ lp.points }}</div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="title_bar">
+        <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Australian_Football_League.svg" />
+        <span class="title">AFL Ladder | by Tycho_Au</span>
+        <span class="instance">Season 2025</span>
+    </div>
+</div>

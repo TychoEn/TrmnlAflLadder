@@ -1,0 +1,112 @@
+{
+    "ladder-positions": [
+        {
+            "position": "1",
+            "team": "Collingwood Magpies",
+            "points": "44",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/CM.png?raw=true"
+        },
+        {
+            "position": "2",
+            "team": "Geelong Cats",
+            "points": "40",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GC.png?raw=true"
+        },
+        {
+            "position": "3",
+            "team": "Brisbane Lions",
+            "points": "38",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/BL.png?raw=true"
+        },
+        {
+            "position": "4",
+            "team": "Adelaide Crows",
+            "points": "36",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/AC.png?raw=true"
+        },
+        {
+            "position": "5",
+            "team": "Hawthorne Hawks",
+            "points": "36",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/HH.png"
+        },
+        {
+            "position": "6",
+            "team": "Gold Coast Suns",
+            "points": "40",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GCS.png"
+        },
+        {
+            "position": "7",
+            "team": "GWS Giants",
+            "points": "32",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/GWS.png"
+        },
+        {
+            "position": "8",
+            "team": "Freemantle Dockers",
+            "points": "32",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/FD.png"
+        },
+        {
+            "position": "9",
+            "team": "Western Bulldogs",
+            "points": "28",
+            "logo-url": "https://github.com/TychoEn/TrmnlAflLadder/blob/0f75ae48e5648e9029f95fe49e4ac5c8ad65c600/WB.png"
+        },
+        {
+            "position": "10",
+            "team": "Carlton Blues",
+            "points": "24",
+            "logo-url": ""
+        },
+        {
+            "position": "11",
+            "team": "Port Adelaide",
+            "points": "24",
+            "logo-url": ""
+        },
+        {
+            "position": "12",
+            "team": "Essendon Bombers",
+            "points": "24",
+            "logo-url": ""
+        },
+        {
+            "position": "13",
+            "team": "Sydney Swans",
+            "points": "20",
+            "logo-url": ""
+        },
+        {
+            "position": "14",
+            "team": "St Kilda Saints",
+            "points": "20",
+            "logo-url": ""
+        },
+        {
+            "position": "15",
+            "team": "Melbourne Demons",
+            "points": "20",
+            "logo-url": ""
+        },
+        {
+            "position": "16",
+            "team": "North Melbourne Kangaroos",
+            "points": "14",
+            "logo-url": ""
+        },
+        {
+            "position": "17",
+            "team": "Richmond Tigers",
+            "points": "12",
+            "logo-url": ""
+        },
+        {
+            "position": "18",
+            "team": "West Coast Eagles",
+            "points": "4",
+            "logo-url": ""
+        }
+    ]
+}
